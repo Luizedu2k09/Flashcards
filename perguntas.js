@@ -6,14 +6,14 @@ criarCartao(
 
 criarCartao(
     "Q1",    
-    "O que a IA simula?",  
-    "Habilidades cognitivas" 
+    "o que é html?",  
+    "é a linguagem padrao da estrutura do codigo" 
 );
 
 criarCartao(
     "Q2",    
-    "Qual subcampo lida com reconhecimento de imagens",  
-    "Visão computacional" 
+    "o'que é programação?",  
+    "é um conjunto de codigos que fazem o diposotivo executar tarefas especificas" 
 );
 
 criarCartao(
@@ -24,14 +24,14 @@ criarCartao(
 
 criarCartao(
     "Q4",    
-    "Quantos subcampos principais a IA abrange?",  
-    "4" 
+    "quando a programaçao surgiu??",  
+    "1843" 
 );
 
 criarCartao(
     "Q5",    
-    "Cite uma aplicação de IA na área da saúde mencionada.",  
-    "Diagnóstico" 
+    "Qual profissão abramge a programação?",  
+    "desenvolvedores de software" 
 );
 
 criarCartao(
