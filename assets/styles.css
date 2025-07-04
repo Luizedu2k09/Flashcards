@@ -1,7 +1,7 @@
 :root {
-    --text-color: #E0F7FA;          /* Cor clara de texto, próxima do azul claro */
-    --card-front-color: rgba(0, 96, 128, 0.7);  /* Azul escuro translúcido para a frente do cartão */
-    --card-back-color: #00ACC1;     /* Azul turquesa mais vibrante para o verso do cartão */
+    --text-color: #fae100;          /* Cor clara de texto, próxima do azul claro */
+    --card-front-color: rgba(104, 19, 19, 0.7);  /* Azul escuro translúcido para a frente do cartão */
+    --card-back-color: #ffda07;     /* Azul turquesa mais vibrante para o verso do cartão */
     --footer-bg-color: #004D40;     /* Verde azulado escuro para o rodapé */
     --footer-text-color: #B2DFDB;   /* Azul claro esverdeado para o texto do rodapé */
 }
